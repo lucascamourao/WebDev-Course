@@ -7,7 +7,7 @@ This repository was created to keep all exercices made during the [Software Deve
 - [Course repository](https://github.com/jeffersoncarvalho/ufc_2023_1?tab=readme-ov-file)
 
 ## 💻 Technologies
-- React
+- JavaScript/ React
 - APIs Express
 - Databases such as MongoDB and Firebase/ Firestore
 - Next.js
